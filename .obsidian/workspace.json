@@ -28,15 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Заметки/Гайд на Гит.md",
+                "file": "Лор/Немного подредактированый лор инфинита.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гайд на Гит"
+              "title": "Немного подредактированый лор инфинита"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "d83a3f081adbdf70",
@@ -125,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Механики/Щиты.md",
+                "file": "Лор/Немного подредактированый лор инфинита.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Щиты"
+              "title": "Backlinks for Немного подредактированый лор инфинита"
             }
           },
           {
@@ -144,12 +145,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Механики/Щиты.md",
+                "file": "Лор/Немного подредактированый лор инфинита.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Щиты"
+              "title": "Outgoing links from Немного подредактированый лор инфинита"
             }
           },
           {
@@ -171,10 +172,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Механики/Щиты.md"
+                "file": "Лор/Немного подредактированый лор инфинита.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Щиты"
+              "title": "Outline of Немного подредактированый лор инфинита"
             }
           }
         ]
@@ -194,10 +195,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "748ac57df0084d65",
+  "active": "2a561bbbfe056444",
   "lastOpenFiles": [
-    "README.md",
+    "Лор/Лор на согласование.md",
+    "Лор/Немного подредактированый лор инфинита.md",
+    "Лор/Вариант № 1 (Амулет заточения).md",
+    "_Заметки/Гайд на Гит.md",
+    "_Персонажи/Главный Герой Человек.md",
+    "2025-01-06.md",
+    "Untitled.canvas",
+    "Боссы/Владычица лесов.md",
+    "Боссы/Прародитель кровопийц.md",
+    "Боссы/референсы/Pasted image 20250106185800.png",
+    "Боссы/референсы/Pasted image 20250106164121.png",
+    "Боссы/референсы/Pasted image 20250106164100.png",
     "Механики/Щиты.md",
+    "README.md",
     "Механики",
     "Мобы/Северный волк.md",
     "Мобы/референсы/Pasted image 20250106164735.png",
@@ -205,15 +218,9 @@
     "Мир/О биомах и мире.md",
     "Мир/референсы",
     "Мир/референсы/Pasted image 20250106164559.png",
-    "_Персонажи/Главный Герой Человек.md",
-    "Боссы/Прародитель кровопийц.md",
-    "_Заметки/Гайд на Гит.md",
     "Лор/референсы/Pasted image 20250106183349.png",
     "Лор/референсы",
-    "Лор/Вариант № 1 (Амулет заточения).md",
     "Лор",
-    "Боссы/референсы/Pasted image 20250106164121.png",
-    "Боссы/референсы/Pasted image 20250106164100.png",
     "Боссы/референсы",
     "Welcome.md",
     "_Заметки",
