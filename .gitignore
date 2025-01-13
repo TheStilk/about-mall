@@ -1,3 +1,18 @@
-.obsidian/themes
-.obsidian/appearance.json
-.obsidian/workspace.json
+# Файлы и папки Obsidian, которые не должны попадать в Git
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Локальные настройки и кеши Obsidian
+.obsidian/cache
+.obsidian/workspace
+.obsidian/graph.json
+.obsidian/app.json
+
+# Файлы с расширением .log
+*.log
+
+# Файлы резервных копий или временные файлы
+*.bak
+*.tmp
