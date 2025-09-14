@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Гайд на Git.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Гайд на Git"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Гайд на Git.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Гайд на Git"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -140,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Гайд на Git.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Гайд на Git"
+              "title": "Outline of README"
             }
           },
           {
@@ -158,14 +158,23 @@
               "icon": "cloud",
               "title": "QuickShare"
             }
+          },
+          {
+            "id": "40e78dd98ea485e0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +192,9 @@
   },
   "active": "d9281701078070ff",
   "lastOpenFiles": [
-    "Untitled.base",
     "Гайд на Git.md",
+    "README.md",
+    "Untitled.base",
     "Сущности/НИПы/Кот.md",
     "Сущности/НИПы/Уборщик.md",
     "Сущности/Монстры/Агресивные/Первые Монстры.md",
@@ -205,7 +215,6 @@
     "Untitled.canvas",
     "2025-09-14.md",
     "Сущности/Монстры/Пассивные",
-    "README.md",
     "!Референсы/Звуковые/m-e-o-w.mp3",
     "Pasted image 20250914214754.png",
     "!Референсы/Графические/Кот01.png",
