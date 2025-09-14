@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Сущности/НИПы/Кот.md",
+                "file": "Гайд на Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Кот"
+              "title": "Гайд на Git"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Лор/Немного подредактированый лор инфинита.md",
+                "file": "Гайд на Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Немного подредактированый лор инфинита"
+              "title": "Backlinks for Гайд на Git"
             }
           },
           {
@@ -140,13 +140,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Лор/Немного подредактированый лор инфинита.md"
+                "file": "Гайд на Git.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Немного подредактированый лор инфинита"
+              "title": "Outline of Гайд на Git"
+            }
+          },
+          {
+            "id": "089fca62ea35b3b1",
+            "type": "leaf",
+            "state": {
+              "type": "QUICKSHARE_SIDE_VIEW",
+              "state": {},
+              "icon": "cloud",
+              "title": "QuickShare"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -161,54 +175,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "media-extended:Open media": false
     }
   },
-  "active": "f978b8cbbbf335d2",
+  "active": "d9281701078070ff",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Гайд на Git.md",
+    "Сущности/НИПы/Кот.md",
+    "Сущности/НИПы/Уборщик.md",
+    "Сущности/Монстры/Агресивные/Первые Монстры.md",
+    "Сущности/Аномалии/Акустические.md",
+    "Строение Мира/Цель Игры.md",
+    "Строение Мира/Карта.md",
+    "Строение Мира/Другие Люди.md",
+    "Выживание/Система Крафтов.md",
+    "Механики./Поведение.md",
+    "Выживание/Картография.md",
+    "Механики/Диалоги/Генерация Диалогов.md",
+    "Механики/Поведение Персонажа/Дыры Памяти.md",
+    "Механики/Поведение Персонажа/Искажение Разума.md",
+    "Механики/Кома.md",
+    "Механики.",
+    "Механики/Поведение.md",
+    "Механики/Различные Обстоятельства Смерти.md",
+    "Untitled.canvas",
+    "2025-09-14.md",
     "Сущности/Монстры/Пассивные",
     "README.md",
     "!Референсы/Звуковые/m-e-o-w.mp3",
-    "Сущности/НИПы/Кот.md",
     "Pasted image 20250914214754.png",
     "!Референсы/Графические/Кот01.png",
     "!Референсы/Звуковые",
     "!Референсы/Графические/Кот02.png",
     "!Референсы/Графические",
     "!Референсы/Графические/Уборщик.png",
-    "Сущности/НИПы/Уборщик.md",
-    "Сущности/Монстры/Агресивные/Первые Монстры.md",
     "!Референсы",
-    "Гайд на Git.md",
     "Untitled.md",
     "Сущности/Монстры/Агресивные",
-    "Сущности/Аномалии/Акустические.md",
     "Сущности/Аномалии",
-    "Выживание/Система Крафтов.md",
-    "Выживание/Картография.md",
-    "Механики/Различные Обстоятельства Смерти.md",
     "Механики/Поведение Персонажа/Паника.md",
-    "Механики/Поведение Персонажа/Искажение Разума.md",
-    "Механики/Поведение Персонажа/Дыры Памяти.md",
-    "Механики/Диалоги/Генерация Диалогов.md",
     "Механики/Диалоги",
-    "Механики/Кома.md",
-    "Механики/Поведение Персонажа",
-    "Строение Мира/Другие Люди.md",
-    "Строение Мира/Цель Игры.md",
-    "Строение Мира/Карта.md",
-    "Механики",
-    "Сущности/Монстры",
     "1) Миростроение/Рассы/Орки.md",
     "1) Миростроение/Рассы/Люди.md",
     "1) Миростроение/Рассы/Кровопийцы.md",
     "1) Миростроение/Рассы/Зверолюди.md",
-    "1) Миростроение/Рассы/Дворфы.md",
-    "1) Миростроение/Рассы/Гоблины.md",
-    "1) Миростроение/Рассы/_Рассы.md",
     "ref/Pasted image 20250106164100.png",
     "ref/Pasted image 20250106164735.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
     "ref/Pasted image 20250113003059.png",
