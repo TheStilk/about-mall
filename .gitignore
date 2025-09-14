@@ -5,10 +5,13 @@
 Thumbs.db
 
 # Локальные настройки и кеши Obsidian
-.obsidian/cache
-.obsidian/workspace
-.obsidian/graph.json
-.obsidian/app.json
+cache
+workspace
+graph.json
+app.json
+appearance.json
+hotkeys.json
+workspace.json
 
 # Файлы с расширением .log
 *.log
